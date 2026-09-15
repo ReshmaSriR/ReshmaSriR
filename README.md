@@ -1,8 +1,8 @@
 # Hi, I'm Reshma 👋
 
 ## About Me
-- 3rd-year CSE Student | Passionate about Software Development
-- Looking for Software Engineering opportunities
+- Final-year CSE Student | Passionate about Software Development
+- Looking for Software Engineering & web development opportunities
 - Skilled in: Java, MySQL, JDBC, Data Structures, Algorithms
 
 ## Projects
